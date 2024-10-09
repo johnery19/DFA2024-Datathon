@@ -43,14 +43,14 @@ We connected Power BI to the PostgreSQL database to perform an in-depth analysis
    - **Filters**: Name, subject, parental support, attendance.
    - **Insights**: The highest and lowest scoring students, the effect of parental support on performance.
 
-   *(Image: Datafeast1.jpg)*
+   ![](Datafeast1.jpg)
 
 2. **Impact of Attendance**:
    - **KPIs**: Attendance rate, total absent days, number of students present.
    - **Visualizations**: Attendance consistency by state, average score by subject.
    - **Insights**: How attendance affects overall student performance across different regions and subjects.
 
-   *(Image: Datafeast2.jpg)*
+   ![](Datafeast2.jpg)
 
 3. **Impact of Extracurricular Activities**:
    - **KPIs**: Number of students by activity type, impact of activities on academic performance.
