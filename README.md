@@ -23,8 +23,11 @@ The collected data was loaded into a PostgreSQL database, where a relational sch
 - **Table 2**: `Performance Records` – contains the exam scores for each student by subject.
 - **Table 3**: `Attendance Records` – logs student attendance data.
 - **Table 4**: `Extracurricular Activities` – logs details on student participation in activities.
-  [](school_performance.py)
-
+  ![Model Here](school_performance.py)
+Database login details :
+server = localhost
+username = postgres
+password = 123456
 
 #### **4. Predictive Analysis**
 To better understand the influence of various factors, we performed predictive analysis using machine learning techniques. The goal was to predict student success based on their attendance, parental support, and extracurricular activity participation.
