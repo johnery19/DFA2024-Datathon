@@ -33,7 +33,7 @@ To better understand the influence of various factors, we performed predictive a
 - **Key Features**: Attendance rate, parental support level, extracurricular activity involvement.
 - **Performance metrics**: Accuracy, precision, and recall (or any other relevant metrics based on your work).
 
-You can view the model 
+**Link to the model** : [Here](https://github.com/JoshuaPaul-lasisi/DataFest)
 
 #### **5. Power BI Analysis**
 We connected Power BI to the PostgreSQL database to perform an in-depth analysis. The insights were visualized in a 3-page Power BI report to highlight factors affecting student performance:
@@ -57,8 +57,7 @@ We connected Power BI to the PostgreSQL database to perform an in-depth analysis
    - **Visualizations**: Extra-curricular activities by average score, activity participation by region.
    - **Insights**: Which activities contribute positively or negatively to academic performance, as well as patterns in participation across different regions.
 
-   *(Image: Datafeast3.jpg)*
-You can view report https://app.powerbi.com/view?r=eyJrIjoiYWZiMDc2YzAtYWU3OC00YzdhLWFkMjMtNjNlYjQ0NjA4YjczIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+   **Link to Live Power BI Report**: [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYWZiMDc2YzAtYWU3OC00YzdhLWFkMjMtNjNlYjQ0NjA4YjczIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9).
 
 #### **6. PowerApps Solution**
 To make the data more accessible and usable by school staff, a PowerApps canvas application was developed. The app allows users to:
