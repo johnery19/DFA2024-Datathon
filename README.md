@@ -56,6 +56,8 @@ We connected Power BI to the PostgreSQL database to perform an in-depth analysis
    - **KPIs**: Number of students by activity type, impact of activities on academic performance.
    - **Visualizations**: Extra-curricular activities by average score, activity participation by region.
    - **Insights**: Which activities contribute positively or negatively to academic performance, as well as patterns in participation across different regions.
+  
+   ![](Datafeast4.jpg)
 
    **Link to Live Power BI Report**: [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYWZiMDc2YzAtYWU3OC00YzdhLWFkMjMtNjNlYjQ0NjA4YjczIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9).
 
@@ -68,12 +70,15 @@ To make the data more accessible and usable by school staff, a PowerApps canvas 
 PowerApps Link: [Click here to access the PowerApp](https://apps.powerapps.com/play/e/ff99fe27-14cc-eb6a-a3ca-b3e4835c270c/a/cb205e98-eecb-4f7d-bd9c-66b6fe0ac1e6?tenantId=22426826-dc4c-401a-8d0e-7f97e64c0f99&sourcetime=1728459495809)
 
 
+### **Login Details : email : afolabijohn53@learnwithpowerup.onmicrosoft.com            
+      Password: Dominion12
+
 ![](powerApp1.jpg)
 
 
 ![](powerapp2.jpg)
 
-![](powerapp3.jpg)
+![](powerapp4.jpg)
 #### **7. Conclusion and Recommendations**
 Based on the data and analysis performed, we found that:
 - **Attendance** has a significant impact on student performance, with students having higher attendance rates performing better in exams.
@@ -85,12 +90,3 @@ We recommend that schools:
 - Encourage parental involvement, particularly for students at risk of underperforming.
 - Monitor and support extracurricular activities that contribute positively to academic outcomes.
 
-#### **8. Future Work**
-Future improvements could involve:
-- Expanding the dataset to include more schools and regions.
-- Incorporating more advanced machine learning techniques for performance prediction.
-- Developing more customized dashboards and reports for different user roles (teachers, parents, school administrators).
-
----
-
-This detailed report highlights the steps you took in the hackathon project, from data collection to analysis and application development. Let me know if you want to adjust any part or add more detail to specific sections!
